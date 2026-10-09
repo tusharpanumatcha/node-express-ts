@@ -1,0 +1,225 @@
+{
+  "categories": [
+    {
+      "category": "Issuer Solutions",
+      "isActive": true,
+      "id": 1
+    },
+    {
+      "category": "Acquirer Solutions",
+      "isActive": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "category": "Back Office Solutions",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "category": "Monitoring Solutions",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "category": "Digital Banking Solutions",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "category": "Inclusive Banking",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "category": "Digital Security",
+      "isActive": true
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productname": "FSS Card Management suite",
+      "category": "Issuer Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "cardmanagement.jpg",
+      "productDescription": "FSS Card Management Suite is an end-to-end card lifecycle management solution for debit, prepaid, and virtual cards from pre-issuance to post-issuance. The solution is secure and EMV ready. It supports both contact and contactless cards. The product offers a full fledged transaction processing module which has the capabilities to act as an authentication and authorization engine. The product supports efficient and cost effective roll out of innovative card program."
+    },
+    {
+      "id": 2,
+      "productname": "FSS Green pin",
+      "category": "Issuer Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "greenpin.jpg",
+      "productDescription": "Banks and card issuers are increasingly adopting paperless methods to communicate to their customers that save time, money which in turn maximize convenience and productivity. FSS Green PIN is a paperless PIN generation and forwarding solution that enables banks to securely transmit card PINs in electronic form through multiple delivery channels to their cardholders. Green PIN helps stakeholders with all the last-step card-issuance process needs and requirements. It allows banks to reduce the costs of PIN issuance and associated courier and logistics costs."
+    },
+    {
+      "id": 3,
+      "productname": "FSS Toggle",
+      "category": "Issuer Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "toggle.jpg",
+      "productDescription": "When a card is lost or stolen, blocking procedures are long and time consuming. A time window exists before the hotlist refresh happens. Users had no control on card usage till recently. Cardholder can’t change or set limits for each transaction as it involves processes to be performed.  FSS Toggle empowers cardholder to manage their debit, prepaid and credit cards from an application on a smart phone."
+    },
+    {
+      "id": 4,
+      "productname": "FSS Access Control Service",
+      "category": "Issuer Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "acs.jpg",
+      "productDescription": "FSS Access Control Server is a secure authentication platform based on guidelines given by VISA and MasterCard. The product offers a modular solution to issuer banks that support 3-D secure protocol via authentication methods such as OTP, Bingo Card/Grid, Static password with Activation During Shopping (ADS), Static password without ADS, IPIN, IVR, Randomized static password, Aadhaar*, Tokenization* etc., Real-time dashboards help banks monitor their transactions to better analyze their declined transactions. FSS Access Control Server can interface with directory servers from interchanges, authentication history server, switch or card host and SMS/email gateway."
+    },
+    {
+      "id": 5,
+      "productname": "FSS Secure3D",
+      "category": "Digital Security",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "3D.jpg",
+      "productDescription": "FSS Secure3D, a real-time, risk-based authentication solution, compliant with EMVCO 3D Secure 2.0 guidelines, provides a comprehensive approach to secure card not present transactions. The solution supports explicit and implicit cardholder authentication over multiple online engagement channels and devices. FSS Secure3D leverages data elements exchanged during the checkout process and transaction history data held by issuers and merchants to detect fraud patterns and make better informed authentication decisions. FSS offers Secure3D As-a-Service, enabling issuers and payment service providers to go live at a minimal upfront cost. An As-a-Service model allows customers to harness aggregated anonymized data (risk score) to defend against fast-changing fraudster behaviors. Further issuers benefit as FSS assumes the mantle of responsibility for risk-assessment, interchange and regulatory compliance, reporting and security. Deployed by 15+ banks and securing 200M+ authentication requests annually, FSS Secure3D is a proven solution to strengthen online transaction security and encourage the growth of e-commerce transactions."
+    },
+    {
+      "id": 6,
+      "productname": "FSS Payment Gateway",
+      "category": "Acquirer Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "paymentgateway.jpg",
+      "productDescription": "FSS Payment Gateway is a scalable, secure platform-commerce/M-commerce that supports multiple payment mechanisms across delivery channels such as internet and IVR. Powered by robust fraud and risk engine, FSS internet payment gateway ensures minimal transaction compromises and delivers a delightful experience to end users. It provides simple and meaningful dashboards for critical business decisions when they matter the most. It is also compliant to latest security standards such as PA-DSS."
+    },
+    {
+      "id": 7,
+      "productname": "FSS Merchant",
+      "category": "Acquirer Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "merchant.jpg",
+      "productDescription": "The continuing shift from cash to electronic payment and increasing pressures to attract and retain merchants are placing demands on acquirers to compete more effectively in the market. Acquirers therefore have to strengthen their customer service while continuing to optimize their revenue and keep costs under control. FSS Merchant is a fully integrated solution for end-to-end requirements of merchant acquirers ranging from efficient merchant on-boarding and management to creating insightful reports. Powered by a robust transaction posting and settlement engine, FSS Merchant facilitates multiple settlement cycles in a day, meets payments card industry security standards and also enables merchants with self-service portals for greater visibility into transactions and other Merchant specific requirements."
+    },
+    {
+      "id": 8,
+      "productname": "FSS Posablity",
+      "category": "Acquirer Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "posability.jpg",
+      "productDescription": "FSS PoSability is an Integrated Point of Sale solution that enables merchants to acquire and manage card payments across multiple POS device variants like Mobile POS, PC POS, Web POS and Conventional POS. Variety of Point of Sale configurations, payment modes, and connectivity options, makes the solution versatile. The product supports multiple payment instruments including interactive payment support for EMV, Bar Code, QR Code and NFC. A terminal driving middleware layer within FSS PoSability can be configured for multiple acquirer hosts that helps merchants reduce transaction fees and can scale to newer POS generations easily."
+    },
+    {
+      "id": 9,
+      "productname": "FSS Reconciliation Suite",
+      "category": "Back Office Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "reconciliation.jpg",
+      "productDescription": "FSS Reconciliation Suite is a well-designed and industry-proven solution that simplifies the reconciliation and settlement process. It is an end-to-end solution that loads source files, matches transactions from multiple sources, manages exceptions, resolves conflicts, generates file reports, and uploads files to hosts and interchanges. The convenient and simple process flow of FSS Reconciliation Suite reduces time and hassles of reconciling and settling through multiple network connections"
+    },
+    {
+      "id": 10,
+      "productname": "FSS Bill Pay",
+      "category": "Back Office Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "billpay.jpg",
+      "productDescription": "The long queues and painful waiting to pay bills is history. A superior electronic bill presentment and payment solution can help banks or third party service providers to open various convenient payment channels for consumers and make their lives easy. The high availability of electronic retail banking channel is changing the way customers are making their bill payments. FSS Bill Pay is an end-to-end simple, powerful and secure bill payment system. Using FSS Bill Pay, the presentation of bills on all delivery channels is easily accessible to customers. FSS Bill Pay system also supports file interfaces for billers who do not have an online bill hosting facility."
+    },
+    {
+      "id": 11,
+      "productname": "FSS Product Cross Sell",
+      "category": "Back Office Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "productcrosssell.jpg",
+      "productDescription": "Banks constantly endeavor to maximize the usage of customer touch points like ATM to sell their products to customers. Personalizing customer experiences through self-service channels brings in the benefit of customer convenience. Banks have the opportunity to capitalize a Cross Sell platform in introducing their products/services to their target customers and enhance relationships.FSS Product Cross Sell is an interactive, intuitive and customizable product cross-selling solution. It allows banks to do cross-sell marketing by providing an interface for banks’ product marketing personnel. It personalizes customer experience through customized campaigns targeted to segmented customer lists. FSS Product Cross Sell helps create specific time-bound campaigns for targeted customers. It also enables banks to track consumer behavior and distribute marketing campaigns more efficiently"
+    },
+    {
+      "id": 12,
+      "productname": "FSS InstaRemit",
+      "category": "Back Office Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "instaremit.jpg",
+      "productDescription": "FSS InstaRemit is a fast, secure and reliable state-of-the-art technology platform for providing international person to person money transfer services to a financial institution and its customers. It is a complete remittance framework which offers beneficiary registration, remittance and fund disbursement. The system provides various funding options to customers like direct debit, fund transfer system, card and cash to perform remittance transactions. Also enables use of self-service and automated electronic payment channels to register beneficiaries and initiate remittances."
+    },
+    {
+      "id": 13,
+      "productname": "FSS eCash",
+      "category": "Back Office Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "ecash.jpg",
+      "productDescription": "Mobile money transfers, together with other facets of branchless banking, have the potential to increase financial inclusion while reducing the cost of remittances, increasing savings, and providing a new revenue stream for banks and providers of mobile money transfers. FSS eCash is a channel agnostic, end-to-end money transfer solution that provides security along with a range of tangible benefits. The beneficiary is able to use the Bank’s ATM network without having to use any card for withdrawals. The product also facilitates partial withdrawal option and auto reverses un-withdrawn amount to remitter’s account after predefined time limit."
+    },
+    {
+      "id": 14,
+      "productname": "FSS ATM Monitor",
+      "category": "Monitoring Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "atm_monitor.jpg",
+      "productDescription": "It is crucial for the banks and the ATM deployers to ensure that the retail delivery channels are available for customers 24×7. In order to meet increasing customer expectations and get maximum return on investment, uptime of ATMs is critical. Banks require an intuitive and easy to use monitoring tool to monitor faults and overall health attributes of ATM terminals in real time. FSS ATM Monitor helps the bank’s IT and operations teams to pro-actively monitor and manage their ATM deployments. It provides sub component level (XFS layer) incident/fault monitoring and alerts and ticketing system to enable first level management and help field teams maintain up-times of the ATM machines and business continuity. The solution provides a comprehensive dashboard and insightful reporting capabilities."
+    },
+    {
+      "id": 15,
+      "productname": "FSS POS Monitor",
+      "category": "Monitoring Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "pos_monitor.jpg",
+      "productDescription": "With banks and financial institutions periodically adding variety of POS terminals, to cater the constant demands from merchants, there is a surge in the growth of POS terminal volumes. Need of the hour is to have a central management utility to remotely configure, manage and maintain the ever growing POS network. FSS POS Monitor provides a single platform to manage the entire POS network across enterprises and is a vendor agnostic solution. Supports centralized and remote application downloads onto the POS terminals. FSS POS Monitor enables operators inject keys remotely to the terminals, eliminating manual key injection at each terminal location. FSS POS Monitor helps run remote diagnostics on defective devices barring the need for manual first level diagnostics, saving time and money on operations. As and when necessary, FSS POS Monitor facilitates remote activation or deactivation of POS terminals. It also helps reduce usage of network bandwidth by scheduling maintenance at off-peak hours."
+    },
+    {
+      "id": 16,
+      "productname": "FSS Mobile Pay",
+      "category": "Digital Banking Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "mobilepay.jpg",
+      "productDescription": "Mobile devices are increasingly becoming tools that consumers use for banking, payments and shopping. The right mobility strategy can enable banks drive business growth and create competitive advantage. FSS Mobile pay is a unique blend of mobile application as front-end supported by a payment gateway at the back-end; pre-integrated with the payment ecosystem. The solution is capable of interfacing with the bank’s switch, card management system, core banking host, Interchanges, CRM, dispute management system, reconciliation suite, and various other aggregators and merchants. It enables end-users to make banking and payment transactions using their “mobile number” at various acceptance points like POS terminals, ATMs, mobile portals; at their own pace and convenience."
+    },
+    {
+      "id": 17,
+      "productname": "FSS Tablet Banking",
+      "category": "Digital Banking Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "tabletbanking.jpg",
+      "productDescription": "Tablets offer better opportunities for banks to deliver their services faster and more efficiently. FSS Tablet Banking delivers a rich user experience to Banks by offering a wide range of banking transaction sets. The solution is designed to address the needs of field, branch banking and door step banking services. The tablet banking solution helps the Bank complete their customer KYC documentation through Aadhaar based eKYC services instantly. It supports multiple external devices like biometric scanners and magnetic swipe card readers. The in-built camera can be used to capture KYC document images and photograph customers"
+    },
+    {
+      "id": 18,
+      "productname": "FSS dWallet",
+      "category": "Digital Banking Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "dwallet.jpg",
+      "productDescription": "Today’s connected consumers want to order and pay for goods when and where it suits them. FSS dWallet offers them a whole new experience. It is easy to use, fast, and a secure mobile payments solution developed using the latest technology. FSS Digital wallet provides a robust, flexible and secure platform which enables customers to create a card instantly with multiple funding options. Once funded, customers can make payments at their favorite retailers using our innovative Tap and Pay technology powered by NFC and HCE or through QR codes. The wallet has a secure vault for maintaining wallet balances in addition to a transaction engine which interfaces with Payment Gateways and other payment integrators."
+    },
+    {
+      "id": 19,
+      "productname": "FSS Voice Commerce",
+      "category": "Digital Banking Solutions",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "Voice Commerce.jpg",
+      "productDescription": "FSS Voice Commerce is real-time voice banking platform that offers customers, meaningful, contextual and personalized banking interactions, enabling banks to deepen customer engagement via conversation-led banking and deliver interactive service experiences. Leveraging ML-based natural language processing techniques, FSS Voice Commerce responds intelligently to voice commands, simplifying and personalizing the banking experience. The machine learning capabilities embedded into FSS Voice Commerce exploit a wealth of data gathered across conversation points to continually learn customer behavioural patterns with ongoing transactions, broadening the bots’ understanding with time."
+    },
+    {
+      "id": 20,
+      "productname": "FSS Aadhaar Pay",
+      "category": "Inclusive Banking",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "AadhaarPay.png",
+      "productDescription": "FSS Aadhaar Pay is a comprehensive biometric enabled merchant payment acceptance system which allows merchants to accept customer payments through their Aadhaar linked bank accounts without the need for a physical payment instrument. It simplifies digital payments by using customer’s aadhaar number (Social security number equivalent) and biometric credentials stored on UIDAI India stack."
+    },
+    {
+      "id": 21,
+      "productname": "FSS eFinclusiv",
+      "category": "Inclusive Banking",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "Finclusion.png",
+      "productDescription": "FSS eFinclusiv accelerates digital financial innovation to expand the reach and the scope of financial services to the underbanked. The platform helps bank to profitably achieve demand and supply side efficiencies of scale. Banks can achieve critical demand-side efficiencies by delivering doorstep banking services using a network of correspondents. Agents enroll unbanked customers and offer them a full services portfolio including account opening, credit, savings, insurance and merchant payments. The Indian financial services landscape is changing rapidly, riding on the back of a favorable regulatory environment, investments in the India Stack infrastructure and wide penetration of mobile telephony services. Together these trends have improved financial services access and helped a large segment of entry-level customer enter the financial mainstream.  With 800M people having bank accounts, driving services adoption and deepening financial inclusion is a high priority for banks. eFinclusiv helps banks build an expansive merchant network. With FSS eFinclusiv banks can target previously under-penetrated micro-merchant segments, with an efficient technology and commercial framework, easing the way for rapid onboarding and expansion of new acceptance points.FSS eFinclusiv Open API Services Hub enables banks to expose APIs to a host of partners to develop innovative financial services including micro-loans, micro-pensions, security and micro-insurance. Banks benefit as it embeds their position within the value chain to build upon the traditional customer-bank relationship and maintain their share of the market."
+    },
+    {
+      "id": 22,
+      "productname": "FSS AEPS",
+      "category": "Inclusive Banking",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "financialinclusion_gateway.jpg",
+      "productDescription": "Banks and other institution are trying to reach out to the unbanked consumers by implementing low cost, convenient banking services. FSS AEPS is designed to roll out innovative and diverse inclusive banking services through multi-channel, branchless banking services using handheld devices like micro ATMs, tablets, mobile phones and kiosks. The FSS AEPS drives transactions initiated via diverse channels and devices using biometric and RuPay Debit cards, both in branch and on the field."
+    },
+    {
+      "id": 23,
+      "productname": "FSS eKYC",
+      "category": "Inclusive Banking",
+      "updatedDate": "2019-09-28 10:38:54.840",
+      "imageName": "ekyc.jpg",
+      "productDescription": "Regulatory bodies have always mandated strict regulations to validate KYC documents from the consumer before enrolments. This in turn causes inconvenience to the consumers as it adds friction to their account opening process. Hence, Banks are in need of faster, simpler and secure solutions to follow regulations while reducing friction profitably. FSS eKYC helps complete customer due diligence by entering their Aadhaar number and matching it with their biometric scan. After validating the Aadhaar number and biometric data with UIDAI, banks have the option to accept the eKYC response from the UIDAI, as proof of identity and proof of address. A total of 19 data points which include customer’s photograph and demographic profiles are available."
+    }
+  ]
+}

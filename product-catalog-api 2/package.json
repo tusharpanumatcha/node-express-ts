@@ -1,0 +1,35 @@
+{
+  "name": "product-catalog-api",
+  "version": "2.0.0",
+  "description": "REST API for managing a product catalog (categories and products) with Express, TypeScript and MongoDB.",
+  "main": "dist/main.js",
+  "private": true,
+  "engines": {
+    "node": ">=20.12"
+  },
+  "scripts": {
+    "dev": "nodemon",
+    "dev:memory": "nodemon --exec \"tsx src/main.ts --memory\"",
+    "serve": "nodemon",
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "seed": "tsx src/scripts/seed.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mongoose": "^9.11.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^22.15.0",
+    "mongodb-memory-server": "^11.3.0",
+    "nodemon": "^3.1.14",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3"
+  }
+}
